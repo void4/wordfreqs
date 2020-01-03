@@ -9,6 +9,8 @@ Put all your .txt files into the `text` folder, then run:
 
 `python main.py`
 
+It will give an output like this:
+
 ```
 3300 total words
 Count	Freq.%	Word
