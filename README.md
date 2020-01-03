@@ -1,6 +1,8 @@
 ## Installation
 Requires Python 3 (https://www.python.org/downloads/release/python-381/)
 
+This script requires the nltk library. Install it with:
+
 `pip install nltk`
 
 ## Usage
