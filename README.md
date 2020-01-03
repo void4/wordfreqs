@@ -5,7 +5,7 @@ Requires Python 3 (https://www.python.org/downloads/release/python-381/)
 
 ## Usage
 
-Put all your .txt files into the `text` folder, then run:
+Put all your .txt files into the `texts` folder, then run:
 
 `python main.py`
 
